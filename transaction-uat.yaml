@@ -1,0 +1,11 @@
+# Configuration
+build:
+    version: "1.0"
+transactions-info:
+     message: "Welcome to MyBank account related REST APIs  UAT"
+     contactDetails:
+        name: "Durgesh Ray"
+        email: "dr@hotmail.com"
+     onCallSupport:
+        - 1234567891
+        - 8888888888

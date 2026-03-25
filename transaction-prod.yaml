@@ -1,0 +1,11 @@
+# Configuration
+build:
+    version: "1.0"
+transactions:
+     message: "Welcome to MyBank account related REST APIs  PROD"
+     contactDetails:
+        name: "Maruti Londhe"
+        email: "maaruti@hotmail.com"
+     onCallSupport:
+        - 8888888899
+        - 9999999999
